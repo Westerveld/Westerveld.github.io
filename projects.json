@@ -1,0 +1,685 @@
+﻿
+{
+  "projects": [
+    {
+      "title": "Coralsseum",
+      "description": "Local multiplayer crab brawler",
+      "banner": "assets/img/projects/coral/coral.png",
+      "category": "gamejam",
+      "date": "2025",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/coral/coral.png"
+      ],
+      "long-description": "Created in 16 hours of development time with a team of 2 programmers and 2 artists. I was responsible for getting the crabs gameplay setup. I created a way for adding in up to 8 players within the arena. This was created for Global Game Jam 2025",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/coralsseum"
+        }
+      ]
+    },
+    {
+      "title": "Undisputed",
+      "description": "Authentic Boxing for PC/XBOX/PS5",
+      "banner": "assets/img/projects/undisputed/showcase.jpg",
+      "category": "full",
+      "date" : "2024",
+      "role" : "Senior Gameplay Programmer",
+      "Technologies" : "Unity",
+      "carousel-images":
+      [
+        "assets/img/projects/undisputed/showcase.jpg",
+        "assets/img/projects/undisputed/1.jpg",
+        "assets/img/projects/undisputed/2.jpg",
+        "assets/img/projects/undisputed/3.jpg"
+      ],
+      "long-description":"First Major Game release, joined the project as their first programmer in 2020 and helped build out the team for this project. Initially launched into early access in January 2023, with 1.0 launch completing in October 2024. Worked alongside all teams to help get features implemented into the game and also worked particularly close with the design team, to ensure their vision was implemented correctly.",
+      "links" :[
+        {
+          "name" : "Steam",
+          "url" : "https://store.steampowered.com/app/1451190/Undisputed/"
+        },
+        {
+          "name" : "PS5",
+          "url" : "https://www.playstation.com/en-gb/games/undisputed/"
+        },
+        {
+          "name" : "XBOX",
+          "url" : "https://www.xbox.com/en-GB/games/store/undisputed/9nq6z171xzx8"
+        }
+      ]
+    },
+    {
+      "title": "Duckpot",
+      "description": "Ponder the orb, feed its greed",
+      "banner": "assets/img/projects/duck/duckpot.png",
+      "category": "gamejam",
+      "date": "2022",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images":
+      [
+        "assets/img/projects/duck/duckpot.png",
+        "assets/img/projects/duck/1.png",
+        "assets/img/projects/duck/2.png",
+        "assets/img/projects/duck/3.png"
+      ],
+      "long-description": "This game was created for the GMTK Game Jam 2022. Our final scores were as follows: <li>Presentation - Top <b>1.9%</b></li><li>Creativity - Top <b>3.7%</b></li><li>Overall - Top <b>4.8%</b></li>. I was responsible for setting up the dice rolling mechanics, while doing so I created a power-up system around the resulting dice number when thrown at the orb",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://corgibits.itch.io/duck-pot"
+        }
+      ]
+    },
+    {
+      "title": "RETry",
+      "description": "Death is not the end",
+      "banner": "assets/img/projects/RETRY/1.png",
+      "category": "Game Development",
+      "date": "2022",
+      "role": "Game Programmer",
+      "Technologies": "C#",
+      "carousel-images": [
+        "assets/img/projects/RETRY/1.png",
+        "assets/img/projects/RETRY/2.png",
+        "assets/img/projects/RETRY/3.png",
+        "assets/img/projects/RETRY/4.png",
+        "assets/img/projects/RETRY/5.png",
+        "assets/img/projects/RETRY/6.png",
+        "assets/img/projects/RETRY/7.png"
+      ],
+      "long-description": "Game Submission for the GameDev.tv Game Jam. Made over 10 days. I was responsible for programming everything but the UI in this project.",
+      "links": [
+        {
+          "name": "github",
+          "url": "https://github.com/Westerveld/gamdevtv-jam"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://joshyp.itch.io/retry"
+        }
+      ]
+    },
+    {
+      "title": "Looking for Dove",
+      "description": "Build a nest to attract birds",
+      "banner": "assets/img/projects/LFD/LFD.png",
+      "category": "gamejam",
+      "date": "2020",
+      "role": "Game Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/LFD/LFD.png",
+        "assets/img/projects/LFD/1.png",
+        "assets/img/projects/LFD/2.png",
+        "assets/img/projects/LFD/3.png"
+      ],
+      "long-description": "Our team consisted of 2 Artists and 2 Coders. I scripted the introduction, character movement and throwing, as well as the end scenario.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/looking-for-dove"
+        }
+      ]
+    },
+    {
+      "title": "Bready... Set... Duck",
+      "description": "Are you bready for this?",
+      "banner": "assets/img/projects/BSD/1.png",
+      "category": "gamejam",
+      "date": "2020",
+      "role": "Game Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/BSD/1.png",
+        "assets/img/projects/BSD/2.png",
+        "assets/img/projects/BSD/3.png",
+        "assets/img/projects/BSD/4.png",
+        "assets/img/projects/BSD/5.png",
+        "assets/img/projects/BSD/6.gif",
+        "assets/img/projects/BSD/7.gif"
+      ],
+      "long-description": "Our team consisted of 2 coders and 1 artist. I worked on the vehicle physics and controls. And helped with setting up the duck feet. We ranked 285th out of 5,418 entries for Originality",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/bready-set-duck"
+        }
+      ]
+    },
+    {
+      "title": "Procedurally Generated Rooms",
+      "description": "An example of procedurally generated rooms",
+      "banner": "assets/img/projects/prg/prg.gif",
+      "category": "techdemo",
+      "date": "2020",
+      "role": "Developer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/prg/prg.gif",
+        "assets/img/projects/prg/prg_1.png",
+        "assets/img/projects/prg/prg_2.png",
+        "assets/img/projects/prg/prg_3.png"
+      ],
+      "long-description": "This is for an un-named project that never got fully developed. The idea is to have different shaped rooms and generate a map that has no overlap. Took about 1 month to get in a good place",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/prg"
+        }
+      ]
+    },
+    {
+      "title": "Extraction",
+      "description": "Puzzle game jam game",
+      "banner": "assets/img/projects/ext/cover.png",
+      "category": "gamejam",
+      "date": "2020",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/ext/cover.png",
+        "assets/img/projects/ext/furby.png",
+        "assets/img/projects/ext/ai1.gif",
+        "assets/img/projects/ext/doggo2.gif"
+      ],
+      "long-description": "Created in 48 hours. I was the only coder. We wanted to produce a cute horror game taking in some memories from our past. We created a game where you have a power source and need to recharge at plug sockets. The player needs to find the keys to escape via the window.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/extraction"
+        }
+      ]
+    },
+    {
+      "title": "Text Playground",
+      "description": "Throw text around this sandbox area",
+      "banner": "assets/img/projects/textp/2.png",
+      "category": "techdemo",
+      "date": "2020",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/textp/2.png",
+        "assets/img/projects/textp/1.png"
+      ],
+      "long-description": "Little idea I was playing around with where you can throw the text you name, at things.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/text-playground"
+        }
+      ]
+    },
+    {
+      "title": "P L A G U E T I M E S",
+      "description": "Survival crafting game created for LD45",
+      "banner": "assets/img/projects/plague/plague.gif",
+      "category": "gamejam",
+      "date": "2019",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/plague/plague.gif",
+        "assets/img/projects/plague/1.gif",
+        "assets/img/projects/plague/2.gif",
+        "assets/img/projects/plague/3.gif"
+      ],
+      "long-description": "This is for an un-named project currently in development. The idea is to have different shaped rooms and generate a map that has no overlap. Took about 1 month to get in a good place",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/p-l-a-g-u-e-t-i-m-e-s"
+        }
+      ]
+    },
+    {
+      "title": "Merchants Quest",
+      "description": "Retro-style JRPG where the shopkeepers lie to you.",
+      "banner": "assets/img/projects/merchant/banner.png",
+      "category": "gamejam",
+      "date": "2019",
+      "role": "Game Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/merchant/banner.png",
+        "assets/img/projects/merchant/1.gif",
+        "assets/img/projects/merchant/2.gif",
+        "assets/img/projects/merchant/3.gif"
+      ],
+      "long-description": "Created in 4 days for Community Game Jam. Team consisted of 3 programmers, 1 artist and 1 sound engineer. I was responsible for scripting the Inventory and Shop systems. I also helped create the shader for the screen transitions.",
+      "links": [
+        {
+          "name": "github",
+          "url": "https://github.com/Widdiful/MerchantsQuest"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://thedarkmagi.itch.io/merchants-quest"
+        }
+      ]
+    },
+    {
+      "title": "Swing Boi",
+      "description": "Swing using your grapple hook to complete the levels",
+      "banner": "assets/img/projects/SB/cover.png",
+      "category": "gamejam",
+      "date": "2019",
+      "role": "Solo Developer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/SB/2.gif",
+        "assets/img/projects/SB/3.gif"
+      ],
+      "long-description": "This project was created entirely by me in 4 days for Weekly Game Jam 110. I had been wanting to make a game with a grapple hook mechanic, so used this time to make a puzzle platformer version.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/swing-boi"
+        }
+      ]
+    },
+    {
+      "title": "Pie, anyone?",
+      "description": "Battle around for pie!",
+      "banner": "assets/img/projects/pie/cover.png",
+      "category": "gamejam",
+      "date": "2019",
+      "role": "Game Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/pie/cover.png",
+        "assets/img/projects/pie/2.png",
+        "assets/img/projects/pie/3.png"
+      ],
+      "long-description": "The game was created as part of a 4 day game jam at my University. Our team consisted of 2 coders and 2 artists. I was responsible for Player Controller, Getting switch controllers to work nicely with Unity, Gameloop mechanics, and Getting 8 players working via 2 screens. This game ended up winning the Student vote for Best Game",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/pie-anyone"
+        }
+      ]
+    },
+    {
+      "title": "VR Puzzle Tools",
+      "description": "University Final Major Project Tool",
+      "banner": "assets/img/projects/vrtools/1.png",
+      "category": "techdemo",
+      "date": "2019",
+      "role": "Solo Developer",
+      "Technologies": "Unity VR",
+      "carousel-images": [
+        "assets/img/projects/vrtools/1.png",
+        "assets/img/projects/vrtools/2.png",
+        "assets/img/projects/vrtools/3.png"
+      ],
+      "long-description": "This was created as part of my Final Major project during my 3rd year of University. This tool was used to create puzzles in the game These Lands. During this project, I learnt a lot about editor scripting and have used the knowledge in future projects",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/vr-puzzle-tools"
+        }
+      ]
+    },
+    {
+      "title": "These Lands",
+      "description": "VR Puzzle game",
+      "banner": "assets/img/projects/tl/banner.png",
+      "category": "full",
+      "date": "2019",
+      "role": "Lead Programmer",
+      "Technologies": "Unity VR",
+      "carousel-images": [
+        "assets/img/projects/tl/banner.png",
+        "assets/img/projects/tl/1.png",
+        "assets/img/projects/tl/2.jpg",
+        "assets/img/projects/tl/3.jpg",
+        "assets/img/projects/tl/4.jpg",
+        "assets/img/projects/tl/5.jpg",
+        "assets/img/projects/tl/6.jpg",
+        "assets/img/projects/tl/7.jpg",
+        "assets/img/projects/tl/8.jpg",
+        "assets/img/projects/tl/9.jpg"
+      ],
+      "long-description": "This game was created in conjunction with VR Puzzle Tools. I was responsible for all programming and Unity implementation. This game is a VR Adventure Puzzle game built in Unity. It has had over 1,500 downloads on itch after being put into a Black Lives Matter Bundle. On Steam, the game has sold over 100 units. The final mark I received for this game was 95/100",
+      "links": [
+        {
+          "name": "steam",
+          "url": "https://store.steampowered.com/app/1049510/"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/these-lands"
+        }
+      ]
+    },
+    {
+      "title": "Bongo Beat Down",
+      "description": "Take a trip to bongo town",
+      "banner": "assets/img/projects/bbd/bongo.gif",
+      "category": "gamejam techdemo",
+      "date": "2019",
+      "role": "Lead Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/bbd/1.png",
+        "assets/img/projects/bbd/2.png"
+      ],
+      "long-description": "Created for Global Game Jam 2019. I was responsible for getting the Input working correctly in Unity, creating a Bongo bashing mini-game, helping rig the characters in Unity, and setting up the Game Flow. Our team consisted of 2 coders, 1 artist, 1 designer and 1 sound engineer. Used N64 Donkey Kongas as controllers.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/bongo-beat-down"
+        }
+      ]
+    },
+    {
+      "title": "Draumskrok",
+      "description": "Your voice controls your destiny",
+      "banner": "assets/img/projects/draums/draums.gif",
+      "category": "gamejam techdemo",
+      "date": "2019",
+      "role": "Sole Programmer",
+      "Technologies": "Unity, Speech API",
+      "carousel-images": [
+        "assets/img/projects/draums/1.png",
+        "assets/img/projects/draums/2.png",
+        "assets/img/projects/draums/3.png",
+        "assets/img/projects/draums/4.png"
+      ],
+      "long-description": "First person rogue like game, controlled by your voice. Use commands such as move, reload, shoot and stop to make your way through the level. This game can be played entirely with your microphone, or can be played with a combination of the WASD keys and your microphone. Created in 4 days for the Solent Winter Game Jam. The theme was dreams. I was the sole programming on this project. I utilized a speech api to convert speech to interactions in game",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/draumskrok"
+        }
+      ]
+    },
+    {
+      "title": "DirectX 11 Tech Demo",
+      "description": "University DirectX 11 assignment",
+      "banner": "assets/img/projects/d11/1.png",
+      "category": "techdemo",
+      "date": "2019",
+      "role": "Developer",
+      "Technologies": "DirectX 11",
+      "carousel-images": [
+        "assets/img/projects/d11/1.png",
+        "assets/img/projects/d11/2.png",
+        "assets/img/projects/d11/3.png",
+        "assets/img/projects/d11/4.png"
+      ],
+      "long-description": "This was created for a DirectX 11 assignment at University. We were tasked with creating a playable demo around the DirectX 11 API.",
+      "links": [
+        {
+          "name": "github",
+          "url": "https://github.com/Westerveld/Directx11-Demo"
+        }
+      ]
+    },
+    {
+      "title": "Monkey Mayhem",
+      "description": "Time to go bananas",
+      "banner": "assets/img/projects/MM/cover.png",
+      "category": "gamejam",
+      "date": "2019",
+      "role": "Game Developer/Artist",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/MM/1.png",
+        "assets/img/projects/MM/2.png",
+        "assets/img/projects/MM/3.png",
+        "assets/img/projects/MM/4.png"
+      ],
+      "long-description": "1v1 game where you play as ragdoll monkeys swinging from branch to branch, trying to pick up as many bananas as possible. I was responsible for Swinging Mechanics, Banana Pickups, End screen cutscene, and all of the Art except for a couple of pieces of UI",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/monkey-mayhem"
+        }
+      ]
+    },
+    {
+      "title": "Canine Climber",
+      "description": "Enter the arena and climb to the top",
+      "banner": "assets/img/projects/CC/cover.png",
+      "category": "gamejam",
+      "date": "2018",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/CC/1.png",
+        "assets/img/projects/CC/2.png",
+        "assets/img/projects/CC/3.png"
+      ],
+      "long-description": "This game was created in 4 days for the Solent MegaJam, going from the theme; \"Mans best friend\". The idea is to reach the top of the statue within your turn. Once you have done so, you can then make the tower bigger by changing the pose of your dog to make it harder for the other player",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/canine-climber"
+        }
+      ]
+    },
+    {
+      "title": "Procedural Patterns 2D",
+      "description": "Demo project showcasing procedural patterns",
+      "banner": "assets/img/projects/procpat/1.png",
+      "category": "techdemo",
+      "date": "2018",
+      "role": "Programmer",
+      "Technologies": "Unity, Tilemaps",
+      "carousel-images": [
+        "assets/img/projects/procpat/1.png",
+        "assets/img/projects/procpat/image4.gif",
+        "assets/img/projects/procpat/image5.gif"
+      ],
+      "long-description": "Created a project that uses the Unity Tilemap system to procedural generate maps. Was made public on the Unity Technologies GitHub. Algorithms included: Perlin Noise, Random Walk, Cellular Automata, Directional Tunnel.",
+      "links": [
+        {
+          "name": "github",
+          "url": "https://github.com/UnityTechnologies/ProceduralPatterns2D"
+        }
+      ]
+    },
+    {
+      "title": "The Adventures of Zach the Monkey with a Pig on his back",
+      "description": "Game where a kid was our designer",
+      "banner": "assets/img/projects/zac/1.png",
+      "category": "gamejam",
+      "date": "2018",
+      "role": "Programmer/Artist",
+      "Technologies": "Unity, C#",
+      "carousel-images": [
+        "assets/img/projects/zac/1.png",
+        "assets/img/projects/zac/2.png",
+        "assets/img/projects/zac/3.png",
+        "assets/img/projects/zac/4.png",
+        "assets/img/projects/zac/5.png"
+      ],
+      "long-description": "Unity Kids Game Development Project. Created during Playing Field event at Unity offices. Game designed by a kid named Sam, developed by a team of 8 people. The game features a Monkey and Pig duo helping a spaceman find pieces of his rocket. I was responsible for the art of all the characters, as well as the player controller and camera movements. The programming was done in C# and the game was created in Unity.",
+      "links": [
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=n-iwINvZLuI"
+        }
+      ]
+    },
+    {
+      "title": "Brain Shaper",
+      "description": "Transmit your ideas and shape the future minds.",
+      "banner": "assets/img/projects/bs/banner.png",
+      "category": "gamejam",
+      "date": "2018",
+      "role": "Programmer",
+      "Technologies": "Unity, C#",
+      "carousel-images": [
+        "assets/img/projects/bs/1.png",
+        "assets/img/projects/bs/2.gif",
+        "assets/img/projects/bs/3.png"
+      ],
+      "long-description": "Created at Global Game Jam 2018 in Hamar with theme 'Transmission'. Created in 48 hours, focusing on gameplay mechanics and screen transitions.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://dasmalle.itch.io/brain-shaper"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/dasMalle/BrainShaperGGJ18"
+        }
+      ]
+    },
+    {
+      "title": "Game Rover",
+      "description": "Ludum Dare 39 Entry",
+      "banner": "assets/img/projects/rover/cover.png",
+      "category": "gamejam",
+      "date": "2017",
+      "role": "Programmer",
+      "Technologies": "Unity, Tilemap",
+      "carousel-images": [
+        "assets/img/projects/rover/1.png",
+        "assets/img/projects/rover/2.png",
+        "assets/img/projects/rover/3.png",
+        "assets/img/projects/rover/4.png"
+      ],
+      "long-description": "This game was created in 72 hours for Ludum Dare 39. The base idea was to create a platformer where you use energy to get around. Used Unity's Tilemap system and sprite mask system. Art was created by James Redler, while I handled all the programming.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/game-rover"
+        },
+        {
+          "name": "ludum-dare",
+          "url": "https://ldjam.com/events/ludum-dare/39/game-rover"
+        }
+      ]
+    },
+    {
+      "title": "Qong for PS4",
+      "description": "PlayStation 4 University Project",
+      "banner": "assets/img/projects/qong/ps4demo.png",
+      "category": "techdemo",
+      "date": "2017",
+      "role": "Developer",
+      "Technologies": "C++, PlayStation 4 API",
+      "carousel-images": [
+        "assets/img/projects/qong/ps4demo.png"
+      ],
+      "long-description": "Created for a University module in 2nd year, receiving a first for the project. A Pong-based game with additional features including Trail Renderer, Particle Effects, Simple AI, Controller Vibration, and Dynamic Controller LED Color based on ball position. Built using C++ with PlayStation 4 API, extending provided renderer and shader systems.",
+      "links": [
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/watch?v=rwzXg-1npag"
+        }
+      ]
+    },
+    {
+      "title": "In Transit",
+      "description": "A Co-op Wave Based Shooter",
+      "banner": "assets/img/projects/intransit/banner.jpg",
+      "category": "gamejam",
+      "date": "2017",
+      "role": "Developer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/intransit/banner.jpg"
+      ],
+      "long-description": "Created in 5 days for the Solent Games Jam. Won multiple awards: Best Game (Student Vote), Best Art (Tutor Vote), and Best Audio (Tutor Vote). Later had updated art by James Redler including a 6ft roller banner. Showcased at the 2017 Southampton Game Festival.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/in-transit"
+        }
+      ]
+    },
+    {
+      "title": "Fusion Storm",
+      "description": "University Gameplay Module Project",
+      "banner": "assets/img/projects/fs/1.jpg",
+      "category": "gamejam",
+      "date": "2016",
+      "role": "Solo Developer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/fs/1.jpg"
+      ],
+      "long-description": "Created for Gameplay and Game Design module at Southampton Solent University, receiving a first. A shoot-em-up where size affects gameplay - larger size means more damage but slower movement, smaller size means less damage but faster movement. Features include a wave system for enemy spawning and local leaderboard. All assets were created by me, keeping the art style minimal.",
+      "links": [
+        {
+          "name": "itch.io",
+          "url": "https://jestyjam.itch.io/fusion-storm"
+        },
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=-nw24Gz2cYA"
+        }
+      ]
+    },
+    {
+      "title": "Lagerloaf",
+      "description": "Award-winning Local Multiplayer Game",
+      "banner": "assets/img/projects/ll/1.jpg",
+      "category": "gamejam",
+      "date": "2016",
+      "role": "Programmer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/ll/1.jpg"
+      ],
+      "long-description": "Local multiplayer game created in 4 days by a team of 4. A multiplayer version of Doodle Jump with powerups. Won Best Programming and Most Fun awards. I was responsible for the player controllers.",
+      "links": [
+        {
+          "name": "github",
+          "url": "https://github.com/Westerveld/Lagerlof"
+        }
+      ]
+    },
+    {
+      "title": "CataCrunch",
+      "description": "Ludum Dare 35 Entry",
+      "banner": "assets/img/projects/cata/1.jpg",
+      "category": "gamejam",
+      "date": "2016",
+      "role": "Developer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/cata/1.jpg"
+      ],
+      "long-description": "Originally planned as a 1v1 snake game with AI, adapted to local 1v1 due to time constraints. Art by James Redler. Learning points included improving pathing system grid alignment and object spawn collision detection.",
+      "links": [
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=D8G968pF8xs"
+        }
+      ]
+    },
+    {
+      "title": "Bearholt",
+      "description": "Global Game Jam 2016 Entry",
+      "banner": "assets/img/projects/BH/bearholtlogo.jpg",
+      "category": "gamejam",
+      "date": "2016",
+      "role": "Developer",
+      "Technologies": "Unity",
+      "carousel-images": [
+        "assets/img/projects/BH/bearholtlogo.jpg"
+      ],
+      "long-description": "Resource management simulator created for Global Game Jam 2016, taking an abstract approach to the theme. First Global Game Jam experience, with significant learning about Unity UI systems.",
+      "links": [
+        {
+          "name": "gamejam",
+          "url": "https://globalgamejam.org/2016/games/bearholt"
+        },
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=if309AmgqH4"
+        }
+      ]
+    }
+
+  ]
+}
